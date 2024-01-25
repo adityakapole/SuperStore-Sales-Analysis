@@ -19,12 +19,13 @@ This repository contains a PowerBI dashboard designed for analyzing and visualiz
 ## Data Collection
 For this Power BI Dashboard project, the dataset was sourced from Kaggle, providing a readily available and convenient starting point. As a beginner, this approach allowed for quick access to a sample dataset without the need for extensive data collection skills.. The chosen dataset is the Sample SuperStore dataset, offering a diverse set of sales-related information for analysis.
 
-//add image of your dataset here
+<img src="dataset.png" alt="Description for image">
 
 ## Analysis and Visualizations
 The goal of this visualization project is to delve into the sales performance of a store. The project seeks to offer a thorough insight into sales trends, regional contributions, product performance, and customers within the specified timeframe. The primary objective is to provide a comprehensive understanding of the store's sales dynamics.
 
 ## SuperStore Sales Dashboard
-//add image of your dashboard
+<img src="dashboard.png" alt="Description for image">
 
 ## SuperStore Sales-15 Days Forecast
+<img src="forecast.png" alt="Description for image">
